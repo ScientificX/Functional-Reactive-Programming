@@ -1,92 +1,45 @@
 # Functional Reactive Programming Resources
+A chronological collection of academic resources on the practice of functional reactive programming. Great care has been taken to respect copyrights — no files are directly hosted and links to original (open-access) sources are provided instead. Please read [License & Important Notice](https://gitlab.com/-/ide/project/andersyr/frp-resources/edit/main/-/README.md#license-important-notice) for more copyright information.
 
-An chronological collection of academic resources on the practice of functional reactive programming. Great care has been taken to respect copyrights - no files are directly hosted and links to original (open-access) sources are provided instead.
+Project Status: Active as of June 2022.
 
-## Getting started
+Resources are kept on a separate page. Checkout the [Functional Reactive Programming Resources]()!
 
-To make it easy for you to get started with GitLab, here's a list of recommended next steps.
+## Reading and Coding Group
+This repository has a subchannel within the [Functional Programming discord](https://discord.gg/EYyhYrr2gF). Regardless of your experience level, please feel free to join in on weekly reading goals, discussions, and the practices of FRP programming.
 
-Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
+## List of Authors
+This is an incomplete (and in-construction) list of authors in the research field of functional reactive programming, organized by publication date. This list is intended as a tribute of appreciation to the original source authors for their contributions to advancing the field. Thank you for your efforts and work.
 
-## Add your files
+(TODO; list to be properly constructed).
 
-- [ ] [Create](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#create-a-file) or [upload](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#upload-a-file) files
-- [ ] [Add files using the command line](https://docs.gitlab.com/ee/gitlab-basics/add-file.html#add-a-file-using-the-command-line) or push an existing Git repository with the following command:
+## Motivation
+To understand a field, subfield, or topic of research is a daunting task:
 
-```
-cd existing_repo
-git remote add origin https://gitlab.com/andersyr/frp-resources.git
-git branch -M main
-git push -uf origin main
-```
+- Formal research is published across many different publications and research within publications are rarely organized by specific topic;
+- Metanalyses and surveys exist, however they include theory by the author and are restricted by academic rigor to not include informal educational resources;
+- Informal educational resources are likewise published in many places, in many types of media, and not many places collect and organize those resources;
+- Rarely do sources exist that can give an understanding of how a field of research has evolved over time both formally *and* informally;
+- Most methods of organizing research either do not provide a way for- or have barriers that unintentionally prevent- community contribution, which severely hinders the task of staying current with the research.
+- Tools exist to explore formal academic citations, however they are often limited by focusing on individual papers instead of topic.
+- No tools exist that explore citations for informal educational resource.
 
-## Integrate with your tools
+Public repositories are a possible solution to many of these problems, until a better tool comes along: 
+- Formal academic citations can be collected and organized across publications by the specific research topic.
+- Informal educational resource citations can be collected and organized regardless of media type and academic rigor.
+- Community contribution can be encouraged with [forming issues](https://docs.gitlab.com/ee/user/project/issues/managing_issues.html) and by [merge-requests](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html).
 
-- [ ] [Set up project integrations](https://gitlab.com/andersyr/frp-resources/-/settings/integrations)
-
-## Collaborate with your team
-
-- [ ] [Invite team members and collaborators](https://docs.gitlab.com/ee/user/project/members/)
-- [ ] [Create a new merge request](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html)
-- [ ] [Automatically close issues from merge requests](https://docs.gitlab.com/ee/user/project/issues/managing_issues.html#closing-issues-automatically)
-- [ ] [Enable merge request approvals](https://docs.gitlab.com/ee/user/project/merge_requests/approvals/)
-- [ ] [Automatically merge when pipeline succeeds](https://docs.gitlab.com/ee/user/project/merge_requests/merge_when_pipeline_succeeds.html)
-
-## Test and Deploy
-
-Use the built-in continuous integration in GitLab.
-
-- [ ] [Get started with GitLab CI/CD](https://docs.gitlab.com/ee/ci/quick_start/index.html)
-- [ ] [Analyze your code for known vulnerabilities with Static Application Security Testing(SAST)](https://docs.gitlab.com/ee/user/application_security/sast/)
-- [ ] [Deploy to Kubernetes, Amazon EC2, or Amazon ECS using Auto Deploy](https://docs.gitlab.com/ee/topics/autodevops/requirements.html)
-- [ ] [Use pull-based deployments for improved Kubernetes management](https://docs.gitlab.com/ee/user/clusters/agent/)
-- [ ] [Set up protected environments](https://docs.gitlab.com/ee/ci/environments/protected_environments.html)
-
-***
-
-# Editing this README
-
-When you're ready to make this README your own, just edit this file and use the handy template below (or feel free to structure it however you want - this is just a starting point!).  Thank you to [makeareadme.com](https://www.makeareadme.com/) for this template.
-
-## Suggestions for a good README
-Every project is different, so consider which of these sections apply to yours. The sections used in the template are suggestions for most open source projects. Also keep in mind that while a README can be too long and detailed, too long is better than too short. If you think your README is too long, consider utilizing another form of documentation rather than cutting out information.
-
-## Name
-Choose a self-explaining name for your project.
-
-## Description
-Let people know what your project can do specifically. Provide context and add a link to any reference visitors might be unfamiliar with. A list of Features or a Background subsection can also be added here. If there are alternatives to your project, this is a good place to list differentiating factors.
-
-## Badges
-On some READMEs, you may see small images that convey metadata, such as whether or not all the tests are passing for the project. You can use Shields to add some to your README. Many services also have instructions for adding a badge.
-
-## Visuals
-Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
-
-## Installation
-Within a particular ecosystem, there may be a common way of installing things, such as using Yarn, NuGet, or Homebrew. However, consider the possibility that whoever is reading your README is a novice and would like more guidance. Listing specific steps helps remove ambiguity and gets people to using your project as quickly as possible. If it only runs in a specific context like a particular programming language version or operating system or has dependencies that have to be installed manually, also add a Requirements subsection.
-
-## Usage
-Use examples liberally, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.
-
-## Support
-Tell people where they can go to for help. It can be any combination of an issue tracker, a chat room, an email address, etc.
-
-## Roadmap
-If you have ideas for releases in the future, it is a good idea to list them in the README.
+## Possible Community Goal
+A possible community goal to practice applying learned FRP programming skills could be to build a [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) FRP-GUI application that allows one to explore graphs connecting both formal and informal research citations.
 
 ## Contributing
-State if you are open to contributions and what your requirements are for accepting them.
+**Missing publication:** If there are publications not included in this list, please create a [gitlab issue](https://docs.gitlab.com/ee/user/project/issues/managing_issues.html#from-an-issue-board) on the [missing publication]() issue board with as much information as you can provide and the main repository will be updated as soon as possible. Alternatively, feel free to create a [merge request](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html).
 
-For people who want to make changes to your project, it's helpful to have some documentation on how to get started. Perhaps there is a script that they should run or some environment variables that they need to set. Make these steps explicit. These instructions could also be useful to your future self.
+**Citation Typo:** Please file an issue on the [citation typo]() issue board for misstyped citations. Formatting will default to (TODO; decide default citation format) if the original source does not have a formal citation format.
 
-You can also document commands to lint the code or run tests. These steps help to ensure high code quality and reduce the likelihood that the changes inadvertently break something. Having instructions for running tests is especially helpful if it requires external setup, such as starting a Selenium server for testing in a browser.
+## License & Important Notice
+**The copyrights of original source publishers still apply:** Distributing original source files directly (as opposed to the citation of original sources) is in violation of copyright law. Keep yourselves legally safe. **Do not distribute files,** instead distribute the links to the original sources.
 
-## Authors and acknowledgment
-Show your appreciation to those who have contributed to the project.
+This work is not endorsed by original source publishers. Under copyright law, fair use allows for the legal, unlicensed citation of copyrighted material. This work is strictly for non-commercial research, including only citations to original sources, and is therefore protected by copyright fair use.
 
-## License
-For open source projects, say how it is licensed.
-
-## Project status
-If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
+![Creative Commons Zero](https://i.creativecommons.org/p/zero/1.0/88x31.png) This repository is under the [creative commons zero](http://creativecommons.org/publicdomain/zero/1.0/) license. To the extent possible under law, [andersyr](https://gitlab.com/andersyr) waives all copyrights to [Functional Reactive Programming Resources](https://gitlab.com/andersyr/frp-resources). This work is published from the United States.
