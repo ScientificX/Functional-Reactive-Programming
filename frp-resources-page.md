@@ -46,7 +46,7 @@ Conal Elliot LambdaJam 2015
 
 
 Conal Elliot 2015
-[The Essence of FRP](https://begriffs.com/posts/2015-07-22-essence-of-frp.html)
+[The Essence of FRP, Conal Elliot](https://begriffs.com/posts/2015-07-22-essence-of-frp.html)
 
 
 StrangeLoop Conference 2014
@@ -215,7 +215,7 @@ Conal Elliot 2008
 [Early Inspirations and New Directions in Functional Reactive Programming, Conal Elliot](http://conal.net/blog/posts/early-inspirations-and-new-directions-in-functional-reactive-programming)
 
 SunSoft Inc 1994
-[A High Level Framework for Interactive, Animated 3D Graphics Applications](http://conal.net/papers/siggraph94.pdf)
+[A High Level Framework for Interactive, Animated 3D Graphics Applications, Conal Elliott, Greg Schechter, Ricky Yeung, Salim Abi-Ezzi](http://conal.net/papers/siggraph94.pdf)
 
 SunSoft Inc 1994
 [Functional 3D Graphics in C++ with an Object-Oriented, Multiple Dispatching Implementation, Greg Schechter, Conal Elliot, Ricky Yeung, Salim Abi-Ezzi](http://conal.net/papers/eoog94.pdf)
