@@ -3,7 +3,7 @@ A chronological collection of academic resources on the practice of functional r
 
 Project Status: Active as of June 2022.
 
-Resources are kept on a separate page. Checkout the [Functional Reactive Programming Resources]()!
+Resources are kept on a separate page. Checkout the [Functional Reactive Programming Resources](https://gitlab.com/andersyr/frp-resources/-/blob/main/frp-resources-page.md) page!
 
 ## Reading and Coding Group
 This repository has a subchannel within the [Functional Programming discord](https://discord.gg/EYyhYrr2gF). Regardless of your experience level, please feel free to join in on weekly reading goals, discussions, and the practices of FRP programming.
@@ -38,8 +38,8 @@ A possible community goal to practice applying learned FRP programming skills co
 **Citation Typo:** Please file an issue on the [citation typo]() issue board for misstyped citations. Formatting will default to (TODO; decide default citation format) if the original source does not have a formal citation format.
 
 ## License & Important Notice
-**The copyrights of original source publishers still apply:** Distributing original source files directly (as opposed to the citation of original sources) may be in violation of copyright law. Keep yourselves legally safe. **Do not distribute files,** instead distribute the links to the original sources.
+**The copyrights of original source publishers still apply:** Distributing original source files directly (as opposed to the citation of original sources) may be in violation of copyright law. Keep yourselves legally safe. **Do not distribute files under copyright without a permission license from the copyright holder. Do not distribute links to pages that break copyrights, and do not distribute links to methods or tools that break copyrights.** Instead, distribute links to the *original sources* in the form of *citations*. Keep yourselves legally safe.
 
-This work is not endorsed by original source publishers. Under copyright law, fair use allows for the legal, unlicensed citation of copyrighted material. This work is strictly for non-commercial research, including only citations to original sources, and is therefore protected by copyright fair use.
+This work is not endorsed by original source publishers. Under copyright law, fair use allows for the legal, unlicensed citation of copyrighted material. This work is strictly for non-commercial research, it includes only citations to original sources and is therefore protected by copyright fair use.
 
 ![Creative Commons Zero](https://i.creativecommons.org/p/zero/1.0/88x31.png) This repository is under the [creative commons zero](http://creativecommons.org/publicdomain/zero/1.0/) license. To the extent possible under law, [andersyr](https://gitlab.com/andersyr) waives all copyrights to [Functional Reactive Programming Resources](https://gitlab.com/andersyr/frp-resources). This work is published from the United States.
