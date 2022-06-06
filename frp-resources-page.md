@@ -1,16 +1,15 @@
-**Please be aware of the copyrights of original source publishers.** Read the [License & Important Notice](https://gitlab.com/andersyr/frp-resources#license-important-notice) section of the readme to stay informed of your legal responsibility.
+**Please be aware of the copyrights of original source publishers.** Read the [License & Important Notice](https://gitlab.com/andersyr/frp-resources#license-important-notice) section of the readme to stay informed of your legal responsibility. Click [Pre-FRP Inspirational Works]() to jump to the end of the list.
 
 # Functional Reactive Programming Resources 
-Click [Pre-FRP Inspirational Works]() to jump to the end of the list.
 
 ICFP 1997
 [Functional Reactive Animation, Conal Elliot, Paul Hudak](http://conal.net/papers/icfp97/icfp97.pdf)
 
 USENIX DSL/MSR/IEEE (1997 & 1998 & 1999)
 [Modeling Interactive 3D and Multimedia Animation with an Embedded Language](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.51.7172&rep=rep1&type=pdf)
-[1997 html version](http://conal.net/papers/dsl97/dsl97.html)
-[1998 version](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.51.7172&rep=rep1&type=pdf)
-[1999 version](IEEE version is under copyright and cannot be shared here)
+- [1997 html version](http://conal.net/papers/dsl97/dsl97.html)
+- [1998 version](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.51.7172&rep=rep1&type=pdf)
+- [1999 version](IEEE version is under copyright and cannot be shared here)
 
 ACM Haskell 1998
 [Push-Pull Functional Reactive Programming, Conal Elliott](http://conal.net/papers/push-pull-frp/push-pull-frp.pdf)
