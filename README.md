@@ -1,5 +1,5 @@
 # Functional Reactive Programming Resources
-A chronological collection of academic resources on the practice of functional reactive programming. Great care has been taken to respect copyrights — no files are directly hosted and links to original (open-access) sources are provided instead. Please read [License & Important Notice](https://gitlab.com/-/ide/project/andersyr/frp-resources/edit/main/-/README.md#license-important-notice) for more copyright information.
+A chronological collection of academic resources on the practice of functional reactive programming. Great care has been taken to respect copyrights — no files are directly hosted and only links to original (open-access) sources are provided instead. Please read [License & Important Notice](https://gitlab.com/-/ide/project/andersyr/frp-resources/edit/main/-/README.md#license-important-notice) for more copyright information.
 
 Project Status: Active as of June 2022.
 
