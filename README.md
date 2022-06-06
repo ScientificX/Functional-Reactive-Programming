@@ -3,7 +3,7 @@ A chronological collection of academic resources on the practice of functional r
 
 Project Status: Active as of June 2022.
 
-Resources are kept on a separate page. Checkout the [Functional Reactive Programming Resources](https://gitlab.com/andersyr/frp-resources/-/blob/main/frp-resources-page.md) page!
+Resources are kept separate from the project readme; Checkout the **[FRP Resources](https://gitlab.com/andersyr/frp-resources/-/blob/main/frp-resources-page.md)** page! 🎉
 
 ## Reading and Coding Group
 This repository has a subchannel within the [Functional Programming discord](https://discord.gg/EYyhYrr2gF). Regardless of your experience level, please feel free to join in on weekly reading goals, discussions, and the practices of FRP programming.
