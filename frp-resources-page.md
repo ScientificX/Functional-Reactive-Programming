@@ -1,6 +1,8 @@
 **Please be aware of the copyrights of original source publishers.** Read the [License & Important Notice](https://gitlab.com/andersyr/frp-resources#license-important-notice) section of the readme to stay informed of your legal responsibility. Click [Pre-FRP Inspirational Works](https://gitlab.com/-/ide/project/andersyr/frp-resources/tree/main/-/frp-resources-page.md/#pre-frp-inspirational-works) to jump to the end of the list.
 
 # Functional Reactive Programming Resources 
+(Note from @andersyr: Citations are improperly formatted at the moment, pending decision on default format, original source publisher preference, and future edits.)
+
 
 JFP 2020
 [Fault Tolerant Functional Reactive Programming (Extended Version) - Ivan Perez, Alwyn E. Goodloe](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/faulttolerant-functional-reactive-programming-extended-version/F0C270C83E218FA5627D96A7FD6C56E9)
