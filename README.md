@@ -3,7 +3,7 @@ A chronological collection of academic resources on the practice of functional r
 
 Project Status: Active as of June 2022.
 
-Resources are kept separate from the project readme; Checkout the **[FRP Resources](https://gitlab.com/andersyr/frp-resources/-/blob/main/frp-resources-page.md)** page! 🎉
+Resources citations are kept separate from the project readme. Check out the **[FRP Resources](https://gitlab.com/andersyr/frp-resources/-/blob/main/frp-resources-page.md)** page! 🎉
 
 ## Reading and Coding Group
 This repository has a subchannel within the [Functional Programming discord](https://discord.gg/EYyhYrr2gF). Regardless of your experience level, please feel free to join in on weekly reading goals, discussions, and the practices of FRP programming.
@@ -22,12 +22,12 @@ To understand a field, subfield, or topic of research is a daunting task:
 - Rarely do sources exist that can give an understanding of how a field of research has evolved over time both formally *and* informally;
 - Most methods of organizing research either do not provide a way for- or have barriers that unintentionally prevent- community contribution, which severely hinders the task of staying current with the research.
 - Tools exist to explore formal academic citations, however they are often limited by focusing on individual papers instead of topic.
-- No tools exist that explore citations for informal educational resource.
+- No public tools exist (as of 2022) that explore citations for informal educational resources.
 
 Public repositories are a possible solution to many of these problems, until a better tool comes along: 
 - Formal academic citations can be collected and organized across publications by the specific research topic.
 - Informal educational resource citations can be collected and organized regardless of media type and academic rigor.
-- Community contribution can be encouraged with [forming issues](https://docs.gitlab.com/ee/user/project/issues/managing_issues.html) and by [merge-requests](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html).
+- Community contribution can be encouraged with [forming issues](https://docs.gitlab.com/ee/user/project/issues/managing_issues.html) and [merge-requests](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html).
 
 ## Possible Community Goal
 A possible community goal to practice applying learned FRP programming skills could be to build a [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) FRP-GUI application that allows one to explore chronological graphs connecting both formal and informal research citations.
