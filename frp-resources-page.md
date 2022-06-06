@@ -26,6 +26,7 @@ MSR 1998
 
 MSR 1998
 [Functional Implementations of Continuous Modeled Animation (Expanded Version), Conal Elliot](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr-98-25.pdf)
+
 PADL 1999
 [From Functional Animation to Sprite-Based Display, Conal Elliot](http://conal.net/papers/padl99/)
 
@@ -75,7 +76,7 @@ ICFP 2007
 [Tangible Functional Programming, Conal Elliot](https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.422.6896)
 
 Elsevier ENTCS 2007
-[Plugging a Space Leak with an Arrow, Hai Liu, Paul Hudak](https://core.ac.uk/download/pdf/82509494.pdf and slides for a related talk https://www.cs.ox.ac.uk/ralf.hinze/WG2.8/24/slides/paul.pdf)
+[Plugging a Space Leak with an Arrow, Hai Liu, Paul Hudak](https://core.ac.uk/download/pdf/82509494.pdf) and [related slides](https://www.cs.ox.ac.uk/ralf.hinze/WG2.8/24/slides/paul.pdf) from a talk by Paul.
 
 Springer PADL / LNCS 2007
 [HPorter: Using Arrows to Compose Parallel Processes, Liwen Huang, Paul Hudak, John Peterson](https://www.researchgate.net/publication/220802821_HPorter_Using_Arrows_to_Compose_Parallel_Processes)
@@ -102,7 +103,7 @@ Springer HOASC 2010
 [A Semantic Model for Graphical User Interfaces - Neelakantan R. Krishnaswami, Nick Benton](https://www.researchgate.net/profile/Nick-Benton/publication/221241402_A_Semantic_Model_for_Graphical_User_Interfaces/links/0c9605264f921be327000000/A-Semantic-Model-for-Graphical-User-Interfaces.pdf?origin=publication_detail)
 
 Independent Study 2011
-[A Survey of Functional Reactive Programming - Concepts, Implementations, Optimizations, and Applications, Edward Amsden](https://www.cs.rit.edu/~mtf/student-resources/20103_amsden_istudy.pdf slides from a related talk by Amsden https://www.slideshare.net/edwardamsden/introduction-to-functional-reactive-programming)
+[A Survey of Functional Reactive Programming - Concepts, Implementations, Optimizations, and Applications, Edward Amsden](https://www.cs.rit.edu/~mtf/student-resources/20103_amsden_istudy.pdf) and [related slides](https://www.slideshare.net/edwardamsden/introduction-to-functional-reactive-programming) from a talk by Amsden.
 
 Cambridge JFP 2011
 [Causal Commutative Arrows, Hai Liu, Eric Cheng, Paul Hudak](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/68A0B61A360B4A2BFA38512DD661667C/S0956796811000153a.pdf/causal-commutative-arrows.pdf)
