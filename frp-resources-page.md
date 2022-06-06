@@ -1,4 +1,4 @@
-**Please be aware of the copyrights of original source publishers.** Read the [License & Important Notice](https://gitlab.com/andersyr/frp-resources#license-important-notice) section of the readme to stay informed of your legal responsibility. Click [Pre-FRP Inspirational Works]() to jump to the end of the list.
+**Please be aware of the copyrights of original source publishers.** Read the [License & Important Notice](https://gitlab.com/andersyr/frp-resources#license-important-notice) section of the readme to stay informed of your legal responsibility. Click [Pre-FRP Inspirational Works](https://gitlab.com/-/ide/project/andersyr/frp-resources/tree/main/-/frp-resources-page.md/#pre-frp-inspirational-works) to jump to the end of the list.
 
 # Functional Reactive Programming Resources 
 
@@ -208,4 +208,15 @@ USENIX DSL/MSR/IEEE (1997 & 1998 & 1999)
 ICFP 1997
 [Functional Reactive Animation, Conal Elliot, Paul Hudak](http://conal.net/papers/icfp97/icfp97.pdf)
 
+## Pre-FRP Inspirational Works
+Conal Elliot 2008
+[Early Inspirations and New Directions in Functional Reactive Programming, Conal Elliot](http://conal.net/blog/posts/early-inspirations-and-new-directions-in-functional-reactive-programming)
 
+SunSoft Inc 1994
+[A High Level Framework for Interactive, Animated 3D Graphics Applications](http://conal.net/papers/siggraph94.pdf)
+
+SunSoft Inc 1994
+[Functional 3D Graphics in C++ with an Object-Oriented, Multiple Dispatching Implementation, Greg Schechter, Conal Elliot, Ricky Yeung, Salim Abi-Ezzi](http://conal.net/papers/eoog94.pdf)
+
+SunSoft Inc 1994
+[MediaFlow - A Framework for Distributed Integrated Media, Conal Elliot, Greg Schecter, Salim Abi-Ezzi](http://conal.net/papers/MediaFlow.pdf)
