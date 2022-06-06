@@ -30,9 +30,11 @@ Public repositories are a possible solution to many of these problems, until a b
 - Community contribution can be encouraged with [forming issues](https://docs.gitlab.com/ee/user/project/issues/managing_issues.html) and by [merge-requests](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html).
 
 ## Possible Community Goal
-A possible community goal to practice applying learned FRP programming skills could be to build a [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) FRP-GUI application that allows one to explore graphs connecting both formal and informal research citations.
+A possible community goal to practice applying learned FRP programming skills could be to build a [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) FRP-GUI application that allows one to explore chronological graphs connecting both formal and informal research citations.
 
 ## Contributing
+(Note from @andersyr: This section is awaiting edits, I have to read how GitLab handles issue boards.)
+
 **Missing publication:** If there are publications not included in this list, please create a [gitlab issue](https://docs.gitlab.com/ee/user/project/issues/managing_issues.html#from-an-issue-board) on the [missing publication]() issue board with as much information as you can provide and the main repository will be updated as soon as possible. Alternatively, feel free to create a [merge request](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html).
 
 **Citation Typo:** Please file an issue on the [citation typo]() issue board for misstyped citations. Formatting will default to (TODO; decide default citation format) if the original source does not have a formal citation format.
