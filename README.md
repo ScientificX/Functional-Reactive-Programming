@@ -38,7 +38,7 @@ A possible community goal to practice applying learned FRP programming skills co
 **Citation Typo:** Please file an issue on the [citation typo]() issue board for misstyped citations. Formatting will default to (TODO; decide default citation format) if the original source does not have a formal citation format.
 
 ## License & Important Notice
-**The copyrights of original source publishers still apply:** Distributing original source files directly (as opposed to the citation of original sources) is in violation of copyright law. Keep yourselves legally safe. **Do not distribute files,** instead distribute the links to the original sources.
+**The copyrights of original source publishers still apply:** Distributing original source files directly (as opposed to the citation of original sources) may be in violation of copyright law. Keep yourselves legally safe. **Do not distribute files,** instead distribute the links to the original sources.
 
 This work is not endorsed by original source publishers. Under copyright law, fair use allows for the legal, unlicensed citation of copyrighted material. This work is strictly for non-commercial research, including only citations to original sources, and is therefore protected by copyright fair use.
 
