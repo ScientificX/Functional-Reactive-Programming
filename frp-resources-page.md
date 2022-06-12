@@ -56,7 +56,8 @@ StrangeLoop Conference 2014
 ICFP 2014
 [Settable and Non-Interfering Signal Functions for FRP - How a First-Order Switch is More Than Enough, Daniel Winograd-Cort, Paul Hudak](https://www.danwc.com/data/nichoiceICFP2014.pdf)
 
-PADL 2014 (possibly an early work in 2013)
+
+PADL 2014 (possible preprint work available in 2013)
 [Practical Functional Reactive Programming, John Peterson, Ken Roe, Alan Cleary](https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.641.2167)
 
 
@@ -137,6 +138,13 @@ ACM SIGPLAN 2009
 Brandenburgische Technical University 2009
 [Signals, Not Generators! Wolfgang Jeltsch](https://www.ioc.ee/~wolfgang/research/tfp-2009-paper.pdf)
 
+ACM Haskell 2009
+[Push-Pull Functional Reactive Programming, Conal Elliott](http://conal.net/papers/push-pull-frp/push-pull-frp.pdf)
+
+
+LambdaPix Technical Report 2008
+[Simply Efficient Functional Reactivity, Conal Elliot](http://conal.net/papers/simply-reactive/old-tech-report-superceded.pdf) Superceded by [Push-Pull Functional Reactive Programming, Conal Elliot (2009)](http://conal.net/papers/push-pull-frp/push-pull-frp.pdf) 
+
 Springer PADL / LNCS 2007
 [HPorter: Using Arrows to Compose Parallel Processes, Liwen Huang, Paul Hudak, John Peterson](https://www.researchgate.net/publication/220802821_HPorter_Using_Arrows_to_Compose_Parallel_Processes)
 
@@ -171,9 +179,15 @@ Yale 2003
 Yale 2002
 [Functional Reactive Programming for Real-Time Reactive Systems (Dissertation), Zhanyong Wan](https://web.archive.org/web/20160909074830/http://haskell.cs.yale.edu/wp-content/uploads/2011/02/wan-thesis.pdf)
 
+ACM SIGPLAN Workshop on Haskell 2003
+[The Yampa Arcade, Antony Courtney, Henrik Nilsson, John Peterson](https://www.antonycourtney.com/pubs/hw03.pdf) or [ACM Version](https://dl.acm.org/doi/abs/10.1145/871895.871897)
 
 LNCS 2002
 [Arrows, Robots, and Functional Reactive Programming, Paul Hudak, Antony Courtney, Henrik Nilsson, John Peterson](https://www.cs.yale.edu/homes/hudak/CS429F04/AFPLectureNotes.pdf)
+
+ACM Haskell 2002
+[Functional Reactive Programming, Continued, Henrik Nilsson, Antony Courtney, John Peterson](https://www.antonycourtney.com/pubs/frpcont.pdf)
+
 
 PADL 2001
 [Frappé: Functional Reactive Programming in Java](https://www.antonycourtney.com/pubs/frappe-padl01.pdf)
@@ -227,9 +241,6 @@ MSR / Glasgow FPGW 1998
 
 MSR 1998
 [A "Fifteen Puzzle" in Fran, Conal Elliot](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr-98-54.pdf)
-
-ACM Haskell 1998
-[Push-Pull Functional Reactive Programming, Conal Elliott](http://conal.net/papers/push-pull-frp/push-pull-frp.pdf)
 
 USENIX DSL/MSR/IEEE (1997 & 1998 & 1999)
 [Modeling Interactive 3D and Multimedia Animation with an Embedded Language, Conal Elliot](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.51.7172&rep=rep1&type=pdf)
