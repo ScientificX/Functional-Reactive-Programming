@@ -1,7 +1,7 @@
 **Please be aware of the copyrights of original source publishers.** Read the [License & Important Notice](https://gitlab.com/andersyr/frp-resources#license-important-notice) section of the readme to stay informed of your legal responsibility. Click [Pre-FRP Inspirational Works](https://gitlab.com/andersyr/frp-resources/-/blob/main/frp-resources-page.md#pre-frp-inspirational-works) to jump to the end of the list.
 
 # Functional Reactive Programming Resources 
-(Note from @andersyr: Citations are improperly formatted at the moment, pending decision on default format, original source publisher preference, and future edits.)
+(Note from @andersyr: Citations are not formatted at the moment, pending decision on default format, original source publisher preference, and future edits.)
 
 
 JFP 2020
@@ -91,6 +91,9 @@ ACM Haskell 2012
 
 LNCS 2012
 [Virtualizing Real-World Objects in FRP, Daniel Winograd-Cort, Hai Liu, Paul Hudak](https://www.thev.net/PaulLiu/download/virtualizing.pdf)
+
+
+Conference Preprint 2012 [Causality For Free! Parametricity Implies Causality For Functional Reactive Programs, Alan Jeffrey](https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.366.1275)
 
 
 Cambridge JFP 2011
