@@ -64,12 +64,18 @@ ACM Haskell 2013
 [Monadic Functional Reactive Programming, Atze van der Ploeg](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.725.310&rep=rep1&type=pdf)
 
 
-ICFP 2013
-[Higher-Order Functional Reactive Programming without Spacetime Leaks, Neelakantan R. Krishnaswami](https://www.cl.cam.ac.uk/~nk480/simple-frp.pdf)
+ACM POPL 2012 ICFP 2013
+[Higher-Order Functional Reactive Programming without Spacetime Leaks, Neelakantan R. Krishnaswami](https://www.cl.cam.ac.uk/~nk480/simple-frp.pdf) and corresponding [Technical Definitions Report](https://www.cl.cam.ac.uk/~nk480/simple-frp-techreport.pdf)
 
 ACM PLPV 2013
 [Towards a Common Categorical Semantics for Linear-Time Temporal Logic and Functional Reactive Programming, Wolfgang Jeltsch](https://www.sciencedirect.com/science/article/pii/S157106611200045X?via%3Dihub)
 
+
+POPL 2012
+[Higher-Order Functional Reactive Programming in Bounded Space, Neelakantan R. Krishnaswami, Nick Benton, Jan Hoffmann](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.210.3426&rep=rep1&type=pdf)
+
+PLPV 2012
+[LTL Types FRP: Linear-Time Temportal Logic Propositions as Types, Proofs as Functional Reactive Programs, Alan Jeffrey](https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.650.8830)
 
 Elsevier 2012
 [Temporal Logic with 'Until', Functional Reactive Programming with Processes, and Concrete Process Categories, Wolfang Jeltsch](https://www.ioc.ee/~wolfgang/research/plpv-2013-paper.pdf) (link hangs, but works)
@@ -111,6 +117,10 @@ PADL 2010
 [An Ode to Arrows, Hai Liu, Paul Hudak](https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.214.184)
 
 
+ACM SIGPLAN ICFP
+[Safe Functional Reactive Programming through Dependent Types (Corrected Version, 14th December 2011), Neil Sculthorpe, Henrik Nilsson](https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.158.5143) and corresponding [Lecture at ICFP 2009](https://vimeo.com/6632457)
+
+
 ACM Haskell Symposium 2009
 [Push-Pull Functional Reactive Programming, Conal Elliot](http://conal.net/papers/push-pull-frp/push-pull-frp.pdf)
 
@@ -121,6 +131,8 @@ ICFP 2009
 ACM SIGPLAN 2009
 [Safe Functional Reactive Programming, Neil Sculthorpe, Henrik Nilsson](https://www.researchgate.net/profile/Henrik-Nilsson-9/publication/221241470_Safe_Functional_Reactive_Programming_through_Dependent_Types/links/02e7e533960ee28fa7000000/Safe-Functional-Reactive-Programming-through-Dependent-Types.pdf?origin=publication_detail)
 
+Brandenburgische Technical University 2009
+[Signals, Not Generators! Wolfgang Jeltsch](https://www.ioc.ee/~wolfgang/research/tfp-2009-paper.pdf)
 
 Springer PADL / LNCS 2007
 [HPorter: Using Arrows to Compose Parallel Processes, Liwen Huang, Paul Hudak, John Peterson](https://www.researchgate.net/publication/220802821_HPorter_Using_Arrows_to_Compose_Parallel_Processes)
@@ -160,6 +172,9 @@ Yale 2002
 LNCS 2002
 [Arrows, Robots, and Functional Reactive Programming, Paul Hudak, Antony Courtney, Henrik Nilsson, John Peterson](https://www.cs.yale.edu/homes/hudak/CS429F04/AFPLectureNotes.pdf)
 
+PADL 2001
+[Frappé: Functional Reactive Programming in Java](https://www.antonycourtney.com/pubs/frappe-padl01.pdf)
+
 
 Haskell Workshop 2001
 [Genuinely Functional User Interfaces, Antony Courtney, Conal Elliot](http://conal.net/papers/genuinely-functional-guis.pdf)
@@ -170,6 +185,12 @@ LNCS 2001
 ACM SIGPLAN 2001
 [Real-Time FRP, Zhangyong Wan, Walid Taha, Paul Hudak](https://web.archive.org/web/20160803214617/http://haskell.cs.yale.edu/wp-content/uploads/2011/02/rt-frp.pdf)
 
+Yale University 2001
+[Declarative Real World Abstractions, Paul Hudak](https://www.nitrd.gov/subcommittee/sdp/vanderbilt/position_papers/paul_hudak_declarative_abstractions.pdf)
+
+ACM SIGPLAN 2000
+[FranTk - A Declarative GUI Language for Haskell, Meurig Sage](https://dl.acm.org/doi/pdf/10.1145/357766.351250)
+
 LNCS 2000
 [Parallel Functional Reactive Programming, John Peterson, Valery Trifonov, Andrei Serjantov](https://www.researchgate.net/profile/John-Peterson-21/publication/2927204_Parallel_Functional_Reactive_Programming/links/53fb85a60cf2dca8fffe7c8f/Parallel-Functional-Reactive-Programming.pdf)
 
@@ -179,6 +200,12 @@ ACM International PPDP 2000
 
 ACM SIGPLAN PLDI 2000
 [Functional Reactive Programming from First Principles, Zhanyong Wan, Paul Hudak](https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.23.360)
+
+ACM SIGSOFT SEN 2000
+[Principles of Functional Reactive Programming, Paul Hudak](https://dl.acm.org/doi/pdf/10.1145/340855.340961) A short excerpt.
+
+ACM ICSE 1999
+[Prototyping Real-Time Vision Systems: An Experiment in DSL Design, Alastair Reid, John Peterson, Greg Hager, Paul Hudak](https://dl.acm.org/doi/pdf/10.1145/302405.302681)
 
 LNCS 1999
 [Lambda In Motion - Controlling Robots with Haskell, John Peterson, Paul Hudak, Conal Elliot](https://www.researchgate.net/publication/2245424_Lambda_in_Motion_Controlling_Robots_With_Haskell)
