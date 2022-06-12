@@ -4,8 +4,7 @@
 (Note from @andersyr: Citations are not formatted at the moment, pending decision on default format, original source publisher preference, and future edits.)
 
 
-JFP 2020
-[Fault Tolerant Functional Reactive Programming (Extended Version)](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/faulttolerant-functional-reactive-programming-extended-version/F0C270C83E218FA5627D96A7FD6C56E9) - Ivan Perez, Alwyn E. Goodloe
+[Fault Tolerant Functional Reactive Programming (Extended Version)](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/faulttolerant-functional-reactive-programming-extended-version/F0C270C83E218FA5627D96A7FD6C56E9) - Ivan Perez, Alwyn E. Goodloe. *Journal of Functional Programming, 2020.*
 
 
 PPDP 2019
