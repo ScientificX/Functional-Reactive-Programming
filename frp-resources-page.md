@@ -6,6 +6,7 @@ This repository is still very new, so expect consistent updates.
 TODO: Find link for Diamonds are not forever: Liveness in reactive programming with guarded recursion (2020) and add citation.\
 TODO: Find link for Simply RaTT: a Fitch-style modal calculus for reactive programming without space leaks.\
 TODO: Search for Comonadal FRP paper.
+TODO: Add links to Conal Elliot's early HTML blog posts on FRP.
 
 # Functional Reactive Programming Resources
 
