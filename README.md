@@ -3,7 +3,7 @@ A chronological collection of academic resources on the practice of functional r
 
 Project Status: Active as of June 2022.
 
-Resources citations are kept separate from the project readme. Check out the **[FRP Resources](https://gitlab.com/andersyr/frp-resources/-/blob/main/frp-resources-page.md)** page! 🎉
+Resource links and citations are kept separate: Check out the **[FRP Resources](https://gitlab.com/andersyr/frp-resources/-/blob/main/frp-resources-page.md)** page! 🎉
 
 ## Reading and Coding Group
 This repository has a subchannel within the [Functional Programming discord](https://discord.gg/EYyhYrr2gF). Regardless of your experience level, please feel free to join in on weekly reading goals, discussions, and the practices of FRP programming.
@@ -13,7 +13,7 @@ This is an incomplete (and in-construction) list of authors in the research fiel
 
 (TODO; list to be properly constructed).
 
-## Motivation
+## Repository Motivation
 To understand a field, subfield, or topic of research is a daunting task:
 
 - Formal research is published across many different publications and research within publications are rarely organized by specific topic;
