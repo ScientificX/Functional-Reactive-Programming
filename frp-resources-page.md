@@ -233,6 +233,11 @@ ACM SIGPLAN International Conference on Functional Programming 2003.*
 *Henrik Nilsson, John Peterson, Paul Hudak.\
 Yale University 2003.*
 
+[Compiling Real Time Functional Reactive Programming](https://dl.acm.org/doi/10.1145/568173.568183)
+Dana N. Xu, Siau-Cheng Khoo.
+Asian Symposium on Partial Evaluation and Semantics-Based Program Manipulation 2002.
+
+
 [Functional Reactive Programming for Real-Time Reactive Systems (Dissertation)](https://web.archive.org/web/20160909074830/http://haskell.cs.yale.edu/wp-content/uploads/2011/02/wan-thesis.pdf)\
 *Zhanyong Wan.\
 Yale University 2002.*
@@ -322,10 +327,12 @@ Microsoft Research & Glasgow Workshop on Functional Programming 1998.*
 Microsoft Research 1998.*
 
 USENIX DSL/MSR/IEEE (1997 & 1998 & 1999)
-[Modeling Interactive 3D and Multimedia Animation with an Embedded Language](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.51.7172&rep=rep1&type=pdf) - Conal Elliot.
-- [1997 version HTML](http://conal.net/papers/dsl97/dsl97.html)  and [1997 version USENIX](https://www.usenix.org/legacy/publications/library/proceedings/dsl97/full_papers/elliott/elliott.pdf)
-- [1998 version](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.51.7172&rep=rep1&type=pdf)
-- [1999 version](https://ieeexplore.ieee.org/document/798320) (This version is behind an IEEE login requirement.)
+[Modeling Interactive 3D and Multimedia Animation with an Embedded Language](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.51.7172&rep=rep1&type=pdf)\
+*Conal Elliot.\
+
+[1997 HTML version](http://conal.net/papers/dsl97/dsl97.html) and [1997 USENIX version USENIX](https://www.usenix.org/legacy/publications/library/proceedings/dsl97/full_papers/elliott/elliott.pdf)
+[1998 version](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.51.7172&rep=rep1&type=pdf)
+[1999 version](https://ieeexplore.ieee.org/document/798320) (This version is behind an IEEE login requirement.)
 
 [Functional Reactive Animation](http://conal.net/papers/icfp97/icfp97.pdf)\
 *Conal Elliot, Paul Hudak.\
