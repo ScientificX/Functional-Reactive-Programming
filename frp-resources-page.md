@@ -1,6 +1,8 @@
 **Respect the copyrights of original source publishers.** Read the [License & Important Notice](https://gitlab.com/andersyr/frp-resources#license-important-notice) section of the readme to be informed of your legal responsibility. Click [Pre-FRP Inspirational Works](https://gitlab.com/andersyr/frp-resources/-/blob/main/frp-resources-page.md#pre-frp-inspirational-works) to jump to the end of the list.
 
 ### TODO Update Notes
+This repository is still very new, so expect consistent updates.
+
 TODO: Find link for Diamonds are not forever: Liveness in reactive programming with guarded recursion (2020) and add citation.\
 TODO: Find link for Simply RaTT: a Fitch-style modal calculus for reactive programming without space leaks.\
 TODO: Search for Comonadal FRP paper.
