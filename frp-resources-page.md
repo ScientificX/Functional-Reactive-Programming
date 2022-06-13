@@ -53,14 +53,14 @@ Co-located with ACM International Conference on Functional Programming 2015.*
 International Computer Music Conference 2015.*
 
 [The Essence and Origins of FRP or 'How you could have invented Functional Reactive Programming'](https://www.youtube.com/watch?v=j3Q32brCUAI) and [related slides](http://conal.net/talks/essence-and-origins-of-frp-lambdajam-2015.pdf)\
-*Conall Elliot. LambdaJam 2015*
+*Conall Elliot.\
+LambdaJam 2015.*
 
 
 [The Essence of FRP](https://begriffs.com/posts/2015-07-22-essence-of-frp.html)\
 *Conal Elliot.\
-LambdaJam 2015.*
-
- TODO; add link to Lambdajam slides and earlier BayHac preview talk + slides.
+LambdaJam 2015.*\
+TODO; add link to Lambdajam slides and earlier BayHac preview talk + slides.
 
 
 [Controlling Time and Space - Understanding the many formulations of FRP](https://www.youtube.com/watch?v=Agu6jipKfYw)\
@@ -159,8 +159,9 @@ TODO: Find publisher/publication place? 2010.*
 ACM SIGPLAN Practical Aspects of Declarative Languages 2010.*
 
 
-[Safe Functional Reactive Programming through Dependent Types (Corrected Version, 14th December 2011)](https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.158.5143) -  *Neil Sculthorpe, Henrik Nilsson.\
-ACM SIGPLAN International Conference on Functional Programming 2009 & 2011.*\ 
+[Safe Functional Reactive Programming through Dependent Types (Corrected Version, 14th December 2011)](https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.158.5143)\
+*Neil Sculthorpe, Henrik Nilsson.\
+ACM SIGPLAN International Conference on Functional Programming 2009 & 2011.* \
 Corresponding [Talk](https://vimeo.com/6632457) and TODO: [Link to slides?]()
 
 
@@ -201,7 +202,7 @@ Springer Practical Aspects of Declarative Languages, Lecture Notes in Computer S
 
 [Plugging a Space Leak with an Arrow](https://core.ac.uk/download/pdf/82509494.pdf)\
 *Hai Liu, Paul Hudak.\
-Elsevier Electronic Notes in Theoretical Computer Science 2007.*
+Elsevier Electronic Notes in Theoretical Computer Science 2007.*\
 Corresponding [slides](https://www.cs.ox.ac.uk/ralf.hinze/WG2.8/24/slides/paul.pdf) from a talk by Paul. TODO: [link to video of talk?]()
 
 
@@ -212,7 +213,7 @@ ACM SIGPLAN International Conference on Functional Programming 2007.*
 
 [Embedding Dynamic Dataflow in a Call-by-Value Language](https://cs.brown.edu/people/sk/Publications/Papers/Published/ck-frtime/paper.pdf)\
 *Shriram Krishnamurthi, Gregory H. Cooper.\
-ESOP 2006.*
+European Symposium on Programming (ESOP) 2006.*
 
 [Dynamic Optimization for Functional Reactive Programming using Generalized Algebraic Data Types](https://www.cs.nott.ac.uk/~psznhn/Publications/icfp2005.pdf)\
 *Henrik Nilsson.\
@@ -228,7 +229,6 @@ ACM SIGPLAN Workshop on Haskell 2004.*
 *Henrik Nilsson.\
 ACM SIGPLAN International Conference on Functional Programming 2003.*
 
-
 [Functional Hybrid Modeling](https://www.cs.yale.edu/homes/external/nilsson/Publications/padl2003.pdf)\
 *Henrik Nilsson, John Peterson, Paul Hudak.\
 Yale University 2003.*
@@ -236,7 +236,6 @@ Yale University 2003.*
 [Functional Reactive Programming for Real-Time Reactive Systems (Dissertation)](https://web.archive.org/web/20160909074830/http://haskell.cs.yale.edu/wp-content/uploads/2011/02/wan-thesis.pdf)\
 *Zhanyong Wan.\
 Yale University 2002.*
-
 
 [The Yampa Arcade](https://www.antonycourtney.com/pubs/hw03.pdf)\
 *Antony Courtney, Henrik Nilsson, John Peterson.\
@@ -316,7 +315,7 @@ Microsoft Research 1998.*
 
 [Two-Handed Image Navigation in Fran](http://conal.net/papers/TwoHanded/tr-98-56.pdf)\
 *Conal Elliot.\
-Microsoft Research / Glasgow FPGW 1998.*
+Microsoft Research & Glasgow Workshop on Functional Programming 1998.*
 
 [A "Fifteen Puzzle" in Fran](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr-98-54.pdf)\
 *Conal Elliot\
