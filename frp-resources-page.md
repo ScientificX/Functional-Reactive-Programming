@@ -1,13 +1,19 @@
-**Please be aware of the copyrights of original source publishers.** Read the [License & Important Notice](https://gitlab.com/andersyr/frp-resources#license-important-notice) section of the readme to stay informed of your legal responsibility. Click [Pre-FRP Inspirational Works](https://gitlab.com/andersyr/frp-resources/-/blob/main/frp-resources-page.md#pre-frp-inspirational-works) to jump to the end of the list.
+**Respect the copyrights of original source publishers.** Read the [License & Important Notice](https://gitlab.com/andersyr/frp-resources#license-important-notice) section of the readme to be informed of your legal responsibility. Click [Pre-FRP Inspirational Works](https://gitlab.com/andersyr/frp-resources/-/blob/main/frp-resources-page.md#pre-frp-inspirational-works) to jump to the end of the list.
 
-# Functional Reactive Programming Resources 
-(Note from @andersyr: Citations are not properly formatted at the moment, pending future edits.)
+### TODO Update Notes
+TODO: Find link for Diamonds are not forever: Liveness in reactive programming with guarded recursion (2020) and add citation.\
+TODO: Find link for Simply RaTT: a Fitch-style modal calculus for reactive programming without space leaks.\
+TODO: Search for Comonadal FRP paper.
 
+# Functional Reactive Programming Resources
+
+[Adjoint Reactive GUI](https://arxiv.org/abs/2010.12338)\
+*Christian Uldal Graulund, Dmitrij Szamozvancev, Neel Krishnaswami.*\
+Cornell ArXiv Version 2020. (Preprint)
 
 [Fault Tolerant Functional Reactive Programming (Extended Version)](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/faulttolerant-functional-reactive-programming-extended-version/F0C270C83E218FA5627D96A7FD6C56E9)\
 *Ivan Perez, Alwyn E. Goodloe.\
-Journal of Functional Programming, 2020.*
-
+Cambridge Journal of Functional Programming, 2020.*
 
 [Functional Reactive Programming, Restated](https://dl.acm.org/doi/10.1145/3354166.3354172)\
 *Guerric Chupin, Henrik Nilsson.\
@@ -17,27 +23,21 @@ ACM Principles and Practice of Declarative Programming 2019.*
 *Ivan Perez.\
 ACM International Conference on Functional Programming 2018.*
 
-
 [Extensible and Robust Functional Reactive Programming (PhD Thesis)](http://www.cs.nott.ac.uk/~psxip1/papers/2017-Perez-thesis-latest.pdf)\
 *Ivan Perez Dominguez.\
 Nottingham University 2018.*
 
-
 [Testing and Debugging Functional Reactive Programming](https://dl.acm.org/doi/10.1145/3110246)\
 *Ivan Perez, Henrik Nilsson.\
-ACM International Conference on Functional Programming 2017.*
-
-
+ACM International Conference on Functional Programming (ICFP) 2017.*
 
 [Functional Reactive Programming, Refactored](https://ivanperez.io/papers/2016-HaskellSymposium-Perez-Barenz-Nilsson-FRPRefactored-short.pdf)\
 *Ivan Perez, Manuel Barenz, Henrik Nilsson.\
 ACM SIGPLAN Haskell Symposium 2016.*
 
-
 [Causal Commutative Arrows Revisited](https://www.cl.cam.ac.uk/~jdy22/papers/causal-commutative-arrows-revisited.pdf)\
 *Jeremy Yallop, Hai Liu.\
 ACM SIGPLAN Haskell Symposium 2016.* 
-
 
 [Bridging the GUI Gap with Reactive Values and Relations](https://ivanperez.io/papers/2015-HaskellSymposium-Perez-Nilsson-BridgingGUIGapReactiveValues.pdf)\
 *Ivan Perez, Henrik Nilsson.\
@@ -46,24 +46,24 @@ ACM SIGPLAN Haskell Symposium 2015.*
 [Real-Time Interactive Music in Haskell](https://www.danwc.com/data/realtimemusicFARM2015.pdf)\
 *Paul Hudak, Donya Quick, Mark Santolucito, Daniel Winograd-Cort.\
 Functional Art, Music, Modeling and Design (FARM).\
-Co-located with ACM International Conference on Functional Programming 2015.* 
+Co-located with ACM International Conference on Functional Programming (ICFP) 2015.* 
 
 [Media Modules: Intermedia Systems in a Pure Functional Paradigm](https://quod.lib.umich.edu/cgi/p/pod/dod-idx/media-modules-intermedia-systems-in-a-pure-functional.pdf?c=icmc;idno=bbp2372.2015.077;format=pdf)\
 *Mark Santolucito, Donya Quick, Paul Hudak.\
-International Computer Music Conference 2015.*
+International Computer Music Conference (ICMC) 2015.*
 
-[The Essence and Origins of FRP or 'How you could have invented Functional Reactive Programming'](https://www.youtube.com/watch?v=j3Q32brCUAI) and [related slides](http://conal.net/talks/essence-and-origins-of-frp-lambdajam-2015.pdf)\
+[The Essence and Origins of FRP or 'How you could have invented Functional Reactive Programming' (Video Presentation)](https://www.youtube.com/watch?v=j3Q32brCUAI)\
 *Conall Elliot.\
-LambdaJam 2015.*
+LambdaJam 2015.* \
+Corresponding [Slides](http://conal.net/talks/essence-and-origins-of-frp-lambdajam-2015.pdf)
 
-
-[The Essence of FRP](https://begriffs.com/posts/2015-07-22-essence-of-frp.html)\
+[The Essence of FRP (Video Presentation)](https://begriffs.com/posts/2015-07-22-essence-of-frp.html)\
 *Conal Elliot.\
 LambdaJam 2015.*\
 TODO; add link to Lambdajam slides and earlier BayHac preview talk + slides.
 
 
-[Controlling Time and Space - Understanding the many formulations of FRP](https://www.youtube.com/watch?v=Agu6jipKfYw)\
+[Controlling Time and Space - Understanding the many formulations of FRP (Video Presentation)](https://www.youtube.com/watch?v=Agu6jipKfYw)\
 *Evan Czaplicki.\
 StrangeLoop Conference 2014.*
 
@@ -84,35 +84,28 @@ ACM SIGPLAN Haskell Symposium 2013.*
 
 [Higher-Order Functional Reactive Programming without Spacetime Leaks](https://www.cl.cam.ac.uk/~nk480/simple-frp.pdf) and corresponding [Technical Definitions Report](https://www.cl.cam.ac.uk/~nk480/simple-frp-techreport.pdf)\
 *Neelakantan R. Krishnaswami.\
-ACM International Conference on Functional Programming 2013.\
-ACM International Principles of Programming Languages 2012.*
-
+ACM International Conference on Functional Programming 2013.*
 
 [Towards a Common Categorical Semantics for Linear-Time Temporal Logic and Functional Reactive Programming](https://www.sciencedirect.com/science/article/pii/S157106611200045X?via%3Dihub)\
 *Wolfgang Jeltsch.\
 ACM SIGPLAN Programming Languages meets Program Verification 2013.\
 Co-Located with ACM SIGPLAN Principles of Programming Languages 2013.*
 
-
 [Higher-Order Functional Reactive Programming in Bounded Space](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.210.3426&rep=rep1&type=pdf)\
 *Neelakantan R. Krishnaswami, Nick Benton, Jan Hoffmann.\
 ACM SIGPLAN Principles of Programming Languages 2012.*
-
 
 [LTL Types FRP: Linear-Time Temportal Logic Propositions as Types, Proofs as Functional Reactive Programs](https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.650.8830)\
 *Alan Jeffrey.\
 ACM SIGPLAN Programming Languages meets Program Verification 2012.\*
 
-
 [Temporal Logic with 'Until', Functional Reactive Programming with Processes, and Concrete Process Categories](https://www.ioc.ee/~wolfgang/research/plpv-2013-paper.pdf)\
 *Wolfang Jeltsch.\
 Elsevier 2012.*
 
-
 [A Survey on Reactive Programming](https://www.researchgate.net/publication/233755674_A_Survey_on_Reactive_Programming)\
 *Bainomugisha Engineer, Andoni Lombide Carreton, Tom Van Cutsem, Mostinckx Stijn, Wolfgang De Meuter.\
 ACM Computing Surveys 2012.*
-
 
 [Wormholes - Introducing Effects to FRP](https://www.danwc.com/data/Winograd-Cort-Wormholes.pdf)\
 *Daniel Winograd-Cort, Paul Hudak.\
@@ -122,94 +115,76 @@ ACM SIGPLAN Haskell Symposium 2012.*
 *Daniel Winograd-Cort, Hai Liu, Paul Hudak.\
 Springer Lecture Notes in Computer Sciences 2012.*
 
-
 [Causality For Free! Parametricity Implies Causality For Functional Reactive Programs](https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.366.1275)\
 *Alan Jeffrey.\
 Conference Preprint 2012.*
 
-
 [Causal Commutative Arrows](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/68A0B61A360B4A2BFA38512DD661667C/S0956796811000153a.pdf/causal-commutative-arrows.pdf)\
 *Hai Liu, Eric Cheng, Paul Hudak.\
 Cambridge Journal of Functional Programming 2011.*
-
 
 [A Survey of Functional Reactive Programming - Concepts, Implementations, Optimizations, and Applications](https://www.cs.rit.edu/~mtf/student-resources/20103_amsden_istudy.pdf)\
 *Edward Amsden.\
 Independent Study 2011.*
 Corresponding [TODO: Talk-Video Link?]() and [Slides](https://www.slideshare.net/edwardamsden/introduction-to-functional-reactive-programming)\
 
-
 [A Semantic Model for Graphical User Interfaces](https://www.researchgate.net/profile/Nick-Benton/publication/221241402_A_Semantic_Model_for_Graphical_User_Interfaces/links/0c9605264f921be327000000/A-Semantic-Model-for-Graphical-User-Interfaces.pdf?origin=publication_detail)\
 *Neelakantan R. Krishnaswami, Nick Benton.\
 ACM SIGPLAN International Conference on Functional Programming 2011.*
-
 
 [Keeping Calm in the Face of Change - Towards Optimisation of FRP by Reasoning about Change](https://www.researchgate.net/publication/225792681_Keeping_Calm_in_the_Face_of_Change_Towards_Optimisation_of_FRP_by_Reasoning_about_Change)\
 *Neil Sculthorpe, Henrik Nilsson.\
 Springer Higher-Order and Symbolic Computation 2010.*
 
-
 [FRP in C++](https://www.researchgate.net/profile/Gregory-Hager/publication/264872400_FRP_in_C/links/53fd3ae00cf2364ccc08a72b/FRP-in-C.pdf?origin=publication_detail)\
 *Xiangtian Dai, Gregory D. Hager, John Peterson\
 TODO: Find publisher/publication place? 2010.*
 
-
 [An Ode to Arrows](https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.214.184)\
 *Hai Liu, Paul Hudak.\
 ACM SIGPLAN Practical Aspects of Declarative Languages 2010.*
-
 
 [Safe Functional Reactive Programming through Dependent Types (Corrected Version, 14th December 2011)](https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.158.5143)\
 *Neil Sculthorpe, Henrik Nilsson.\
 ACM SIGPLAN International Conference on Functional Programming 2009 & 2011.* \
 Corresponding [Talk](https://vimeo.com/6632457) and TODO: [Link to slides?]()
 
-
 [Push-Pull Functional Reactive Programming](http://conal.net/papers/push-pull-frp/push-pull-frp.pdf)\
 *Conal Elliot.\
 ACM SIGPLAN Haskell Symposium 2009.*
-
 
 [Causal Commutative Arrows and Their Optimization](http://www.eecs.northwestern.edu/~clk800/rand-test-study/_ccaato/ccaato-2009-10-8-12-02-00.pdf)\
 *Hai Liu, Eric Cheng, Paul Hudak.\
 ACM SIGPLAN International Conference on Functional Programming 2009.*
 
-
 [Safe Functional Reactive Programming](https://www.researchgate.net/profile/Henrik-Nilsson-9/publication/221241470_Safe_Functional_Reactive_Programming_through_Dependent_Types/links/02e7e533960ee28fa7000000/Safe-Functional-Reactive-Programming-through-Dependent-Types.pdf?origin=publication_detail)\
 *Neil Sculthorpe, Henrik Nilsson.\
-ACM SIGPLAN 2009.*
-
+ACM SIGPLAN International Conference on Functional Programming 2009.*
 
 [Signals, Not Generators!](https://www.ioc.ee/~wolfgang/research/tfp-2009-paper.pdf)\
 *Wolfgang Jeltsch.
 Brandenburgische Technical University 2009.*
 
-
 [Push-Pull Functional Reactive Programming](http://conal.net/papers/push-pull-frp/push-pull-frp.pdf)\
 *Conal Elliott.\
 ACM SIGPLAN Haskell Symposium 2009.*
-
 
 [Simply Efficient Functional Reactivity](http://conal.net/papers/simply-reactive/old-tech-report-superceded.pdf)\
 *Conal Elliot. Superceded by Push-Pull Functional Reactive Programming - Conal Elliot (2009).\
 LambdaPix Technical Report 2008.*
 
-
 [HPorter: Using Arrows to Compose Parallel Processes](https://www.researchgate.net/publication/220802821_HPorter_Using_Arrows_to_Compose_Parallel_Processes)\
 *Liwen Huang, Paul Hudak, John Peterson.\
 Springer Practical Aspects of Declarative Languages, Lecture Notes in Computer Science 2007.*
-
 
 [Plugging a Space Leak with an Arrow](https://core.ac.uk/download/pdf/82509494.pdf)\
 *Hai Liu, Paul Hudak.\
 Elsevier Electronic Notes in Theoretical Computer Science 2007.*\
 Corresponding [slides](https://www.cs.ox.ac.uk/ralf.hinze/WG2.8/24/slides/paul.pdf) from a talk by Paul. TODO: [link to video of talk?]()
 
-
 [Tangible Functional Programming](https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.422.6896)\
 *Conal Elliot.\
 ACM SIGPLAN International Conference on Functional Programming 2007.*
-
 
 [Embedding Dynamic Dataflow in a Call-by-Value Language](https://cs.brown.edu/people/sk/Publications/Papers/Published/ck-frtime/paper.pdf)\
 *Shriram Krishnamurthi, Gregory H. Cooper.\
@@ -219,11 +194,9 @@ European Symposium on Programming (ESOP) 2006.*
 *Henrik Nilsson.\
 ACM SIGPLAN International Conference of Functional Programming 2005.*
 
-
 [Can GUI Programming Be Liberated From The IO Monad](https://www.researchgate.net/publication/228543378_Can_GUI_Programming_Be_Liberated_From_The_IO_Monad)\
 *John Peterson, Antony Courtney, Bart Robinson.\
 ACM SIGPLAN Workshop on Haskell 2004.*
-
 
 [Functional Automatic Differentiation with Dirac Impulses](https://www.cs.yale.edu/homes/external/nilsson/Publications/icfp2003.pdf)\
 *Henrik Nilsson.\
@@ -236,7 +209,6 @@ Yale University 2003.*
 [Compiling Real Time Functional Reactive Programming](https://dl.acm.org/doi/10.1145/568173.568183)
 Dana N. Xu, Siau-Cheng Khoo.
 Asian Symposium on Partial Evaluation and Semantics-Based Program Manipulation 2002.
-
 
 [Functional Reactive Programming for Real-Time Reactive Systems (Dissertation)](https://web.archive.org/web/20160909074830/http://haskell.cs.yale.edu/wp-content/uploads/2011/02/wan-thesis.pdf)\
 *Zhanyong Wan.\
@@ -272,7 +244,6 @@ Springer Lecture Notes in Computer Science 2001.*
 *Zhangyong Wan, Walid Taha, Paul Hudak.\
 ACM SIGPLAN 2001.* Prior work leading up to Functional Reactive Programming for Real-Time Reactive Systems (?)
 
-
 [Declarative Real World Abstractions](https://www.nitrd.gov/subcommittee/sdp/vanderbilt/position_papers/paul_hudak_declarative_abstractions.pdf)\
 *Paul Hudak.\
 Yale University 2001.*
@@ -284,7 +255,6 @@ ACM SIGPLAN International Conference on Functional Programming 2000.*
 [Parallel Functional Reactive Programming](https://www.researchgate.net/profile/John-Peterson-21/publication/2927204_Parallel_Functional_Reactive_Programming/links/53fb85a60cf2dca8fffe7c8f/Parallel-Functional-Reactive-Programming.pdf)\
 *John Peterson, Valery Trifonov, Andrei Serjantov.\
 Springer Lecture Notes in Computer Science (LNCS) Practical Aspects of Declarative Languages (PADL) 2000.*
-
 
 [Declarative Event-Oriented Programming](http://conal.net/papers/ppdp00/deop-for-print.pdf)\
 *Conal Elliot.\
@@ -326,13 +296,10 @@ Microsoft Research & Glasgow Workshop on Functional Programming 1998.*
 *Conal Elliot\
 Microsoft Research 1998.*
 
-USENIX DSL/MSR/IEEE (1997 & 1998 & 1999)
-[Modeling Interactive 3D and Multimedia Animation with an Embedded Language](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.51.7172&rep=rep1&type=pdf)\
+[Modeling Interactive 3D and Multimedia Animation with an Embedded Language (1998 Version)](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.51.7172&rep=rep1&type=pdf)\
 *Conal Elliot.\
-
-[1997 HTML version](http://conal.net/papers/dsl97/dsl97.html) and [1997 USENIX version USENIX](https://www.usenix.org/legacy/publications/library/proceedings/dsl97/full_papers/elliott/elliott.pdf)
-[1998 version](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.51.7172&rep=rep1&type=pdf)
-[1999 version](https://ieeexplore.ieee.org/document/798320) (This version is behind an IEEE login requirement.)
+Microsoft Research.*\
+[1997 HTML version](http://conal.net/papers/dsl97/dsl97.html) | [1997 USENIX version](https://www.usenix.org/legacy/publications/library/proceedings/dsl97/full_papers/elliott/elliott.pdf) | [1999 IEEE version](https://ieeexplore.ieee.org/document/798320) (Behind a login requirement)
 
 [Functional Reactive Animation](http://conal.net/papers/icfp97/icfp97.pdf)\
 *Conal Elliot, Paul Hudak.\
@@ -343,6 +310,7 @@ ACM SIGPLAN International Conference of Functional Programming 1997.*
 *Conal Elliot.\
 TODO: Add name of blog. 2008.*
 
+TODO: Add link to Kavi Arya's paper that was the focus of the 1989 talk.
 
 [A High Level Framework for Interactive, Animated 3D Graphics Applications](http://conal.net/papers/siggraph94.pdf)\
 *Conal Elliott, Greg Schechter, Ricky Yeung, Salim Abi-Ezzi.\
