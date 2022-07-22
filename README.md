@@ -1,7 +1,7 @@
 # Functional Reactive Programming Resources
 A chronological collection of academic resources on the practice of functional reactive programming. Great care has been taken to respect copyrights — no files are directly hosted and only links to original (open-access) sources are provided instead. Please read [License & Important Notice](https://gitlab.com/andersyr/frp-resources#license-important-notice) for more copyright information.
 
-Project Status: Active as of June 2022.
+Project Status: Active as of July 2022.
 
 Resource links and citations are kept separate: Check out the **[FRP Resources](https://gitlab.com/andersyr/frp-resources/-/blob/main/frp-resources-page.md)** page! 🎉
 
@@ -22,7 +22,7 @@ To understand a field, subfield, or topic of research is a daunting task:
 - Rarely do sources exist that can give an understanding of how a field of research has evolved over time both formally *and* informally;
 - Most methods of organizing research either do not provide a way for- or have barriers that unintentionally prevent- community contribution, which severely hinders the task of staying current with the research.
 - Tools exist to explore formal academic citations, however they are often limited by focusing on individual papers instead of topic.
-- No public tools exist (as of 2022) that explore citations for informal educational resources.
+- No public tools exist (as of 2022) that explore citations for *informal* educational resources.
 
 Public repositories are a possible solution to many of these problems, until a better tool comes along: 
 - Formal academic citations can be collected and organized across publications by the specific research topic.
