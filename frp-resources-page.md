@@ -1,7 +1,7 @@
 **Respect the copyrights of original source publishers.** Read the [License & Important Notice](https://gitlab.com/andersyr/frp-resources#license-important-notice) section of the readme to be informed of your legal responsibility. Click [Pre-FRP Inspirational Works](https://gitlab.com/andersyr/frp-resources/-/blob/main/frp-resources-page.md#pre-frp-inspirational-works) to jump to the end of the list.
 
 ### TODO Update Notes
-This repository is still very new, so expect consistent updates.
+This repository is still new, so expect consistent updates.
 
 TODO: Find link for Diamonds are not forever: Liveness in reactive programming with guarded recursion (2020) and add citation.\
 TODO: Find link for Simply RaTT: a Fitch-style modal calculus for reactive programming without space leaks.\
@@ -10,9 +10,9 @@ TODO: Add links to Conal Elliot's early HTML blog posts on FRP.
 
 # Functional Reactive Programming Resources
 
-[Adjoint Reactive GUI](https://arxiv.org/abs/2010.12338)\
-*Christian Uldal Graulund, Dmitrij Szamozvancev, Neel Krishnaswami.*\
-Cornell ArXiv Version 2020. (Preprint)
+[Adjoint Reactive GUI (Preprint Version)](https://arxiv.org/abs/2010.12338)\
+*Christian Uldal Graulund, Dmitrij Szamozvancev, Neel Krishnaswami.\
+Cornell ArXiv, 2020.*
 
 [Fault Tolerant Functional Reactive Programming (Extended Version)](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/faulttolerant-functional-reactive-programming-extended-version/F0C270C83E218FA5627D96A7FD6C56E9)\
 *Ivan Perez, Alwyn E. Goodloe.\
@@ -100,7 +100,7 @@ ACM SIGPLAN Principles of Programming Languages 2012.*
 
 [LTL Types FRP: Linear-Time Temportal Logic Propositions as Types, Proofs as Functional Reactive Programs](https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.650.8830)\
 *Alan Jeffrey.\
-ACM SIGPLAN Programming Languages meets Program Verification 2012.\*
+ACM SIGPLAN Programming Languages meets Program Verification 2012.*
 
 [Temporal Logic with 'Until', Functional Reactive Programming with Processes, and Concrete Process Categories](https://www.ioc.ee/~wolfgang/research/plpv-2013-paper.pdf)\
 *Wolfang Jeltsch.\
